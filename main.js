@@ -1,23 +1,3 @@
-// function kenalanDong(nama, umur) {
-//   console.log("halo, nama saya", nama);
-//   console.log("umur saya ", umur);
-// }
-
-// kenalanDong("Joese Rio", 23);
-
-// function persegiPanjang(panjang, lebar) {
-//   const hasil = panjang * lebar;
-//   return hasil;
-// }
-
-// const luas = persegiPanjang(3, 2);
-// console.log(luas);
-
-// function segitiga(alas, tinggi) {
-//   const result = (alas * tinggi) / 2;
-//   return result;
-// }
-
 console.log("============== No 1 ===========");
 
 function wargaSekolah(murid, guru, staff) {
@@ -25,7 +5,6 @@ function wargaSekolah(murid, guru, staff) {
   console.log("halo nama saya adalah", guru);
   console.log("halo nama saya adalah ", staff);
 }
-
 wargaSekolah("Agus", "Martin", "Sabrina");
 
 console.log("============= No 2 ===========");
